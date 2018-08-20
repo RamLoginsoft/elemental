@@ -33,11 +33,6 @@
     "tape": "^4.6.0",
     "teaspoon": "^6.4.1"
   },
-  "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "react-transition-group": "^1.2.1"
-  },
   "browserify-shim": {
     "react": "global:React"
   },
