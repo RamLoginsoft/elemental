@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/elementalui/elemental.git"
+    "url": "https://github.com/RamLoginsoft/elemental.git"
   },
   "dependencies": {
     "blacklist": "^1.1.4",
@@ -22,9 +22,9 @@
     "glob": "^7.0.5",
     "gulp": "^3.9.1",
     "isparta": "^4.0.0",
-    "react": "^16.0.0",
+    "react": "https://github.com/RamLoginsoft/react.git",
     "react-component-gulp-tasks": "^0.7.7",
-    "react-dom": "^16.0.0",
+    "react-dom": "https://github.com/RamLoginsoft/react.git",
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-transition-group": "^1.2.1",
